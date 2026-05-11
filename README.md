@@ -1,2 +1,2 @@
-# Text_Summarizer
+# text_summarizer
 Summerizes text
